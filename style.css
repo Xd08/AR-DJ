@@ -1,0 +1,50 @@
+body{
+background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    margin:0;
+    width: 100%;
+}
+
+.note{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+
+.div_song_1{
+    float:left;
+    margin-left: 200px;
+}
+
+
+
+.div_song_2{
+    float:right;
+    margin-right: 200px;
+}
+
+.play {
+    font-size: 30px;
+    width:100px;
+    height: 100px;
+    margin-top: 40px;
+    padding-bottom: 5px;   
+}
+
+canvas{
+border-radius: 2000px;
+opacity: 90%;
+}
+
+.pause {
+    font-size: 30px;
+    width:100px;
+    height: 100px;
+    margin-top: 40px;
+    padding-bottom: 5px;  
+}
